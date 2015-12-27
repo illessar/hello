@@ -6,5 +6,6 @@
 	</head>
 	<body>
 		<h1>Au revoir</h1>
+		<h1>Branche 2</h1>
 	</body>
 </html>
