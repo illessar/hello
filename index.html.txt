@@ -4,6 +4,11 @@
 		<title></title>
 		<meta charset="utf-8">
 	</head>
+		body
+		{
+			background-color: XXX;
+			color: white;
+		}
 	<body>
 		<h1>Hello</h1>
 	</body>
