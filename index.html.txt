@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Titre officiel #LOL!</title>
-		<h1>Titre1</h1>
-		<h1>Titre2</h1>
+		<title></title>
 		<meta charset="utf-8">
 	</head>
 	<body>
